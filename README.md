@@ -18,7 +18,9 @@
 ### Projects I have worked on:
 
 - [Uber Clone Capstone](https://github.com/nicolasgoetschel/UberClone_Capstone) : Uber Clone mobile app. Paired project built with JavaScript, React Native, Redux, React Navigation, React Maps & Tailwind CSS
+  
 - [Mind Blank](https://github.com/nicolasgoetschel/Mind-Blank) : Quiz Game app. Group project built with MongoDB, ExpressJS, ReactJS, and NodeJS
+  
 - [Fugitive Travel](https://github.com/nicolasgoetschel/groundhopping_app) : Football Ground bucket list app to track stadium visits. Solo project built with Python, HTML, CSS, Flask & PostrgreSQL
 
   
